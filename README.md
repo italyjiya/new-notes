@@ -35,7 +35,7 @@ Insert your screenshots here:
 
 🛠 Installation
 Clone the repository:
-git clone https://github.com/yourusername/SwiftUI-NotesApp.git
+git clone [https://github.com/yourusername/SwiftUI-NotesApp.git](https://github.com/italyjiya/new-notes.git)
 Open the project in Xcode:
 cd SwiftUI-NotesApp
 open SwiftUI-NotesApp.xcodeproj
