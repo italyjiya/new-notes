@@ -30,8 +30,12 @@ Swift 5.7 or later
 
 📸 Screenshots (Add Yours)
 Insert your screenshots here:
-![Screenshot 1](path)
-![Screenshot 2](path)
+![Screenshot 1](/Users/monikasureshilamkar/Documents/Apple Academy/Chal. 2/Screen 1 png)
+![Screenshot 2](/Users/monikasureshilamkar/Documents/Apple Academy/Chal. 2/Screen 2 png)
+![Screenshot 3](/Users/monikasureshilamkar/Documents/Apple Academy/Chal. 2/Screen 3 png)
+![Screenshot 4](/Users/monikasureshilamkar/Documents/Apple Academy/Chal. 2 2/Screen 4 png)
+
+
 
 🛠 Installation
 Clone the repository:
